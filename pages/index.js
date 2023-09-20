@@ -1,5 +1,6 @@
-import Link from 'next/link;
-import Layout from '../compnents/layout';
+import Link from 'next/link';
+
+  import Layout from '../components/layout'
 import { getSortedList } from '../lib/data';
 
 export async function getStaticProps() {

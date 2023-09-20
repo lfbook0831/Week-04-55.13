@@ -5,7 +5,7 @@ export default function Layout({ children, home}) {
   return (
     <div>
     <Head>
-    <Title> Basic Next.Jr App </Title>
+    <title>Week 04</title>
     </Head>
       <header>
       <nav>
